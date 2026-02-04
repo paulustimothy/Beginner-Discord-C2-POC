@@ -23,7 +23,7 @@ This tool demonstrates that by using the Discord API, command traffic appears as
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/paulustimothy/Beginner-Discord-C2-POC.git](https://github.com/paulustimothy/Beginner-Discord-C2-POC.git)
+    git clone https://github.com/paulustimothy/Beginner-Discord-C2-POC.git
     ```
 2.  Install dependencies:
     ```bash
